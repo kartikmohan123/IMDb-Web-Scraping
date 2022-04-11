@@ -1,4 +1,4 @@
-<align = "center">![alt text](https://miro.medium.com/max/1400/1*_1QEVhmgVIczZELPQe7QKg.png)</align>
+![alt text](https://miro.medium.com/max/1400/1*_1QEVhmgVIczZELPQe7QKg.png)
 
 ## What is Web Scraping ?
 Web scraping is an automated method to extract large amounts of data from the websites. It helps collect the unstructured data from the websites and store it in a structured form. In simple terms, web scraping not only automatically fetches the information from the websites but also stores it in an organised manner.
