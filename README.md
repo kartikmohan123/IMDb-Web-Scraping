@@ -6,6 +6,10 @@ Web scraping is an automated method to extract large amounts of data from the we
 ## Objective : 
 To perform Web Scraping with Python using Beautiful Soup on top 250 movies from the IMDb website. 
 
+## Code and Resources Used 
+**Python Version:** 3.7  
+**Packages:** BeautifulSoup, requests, pandas <br />
+
 ### You can refer to this article for detailed explanation of this project :       
 https://medium.com/data-science-community-srm/web-scraping-with-beautifulsoup-3d66aebadaeb
 
